@@ -1,7 +1,7 @@
 {
   "name": "carlonicora/minimalism-service-mailer-sendgrid",
   "description": "Sendgrid mailer service for minimalism",
-  "version": "1.0.0-alpha2",
+  "version": "1.0.0-alpha3",
   "homepage": "https://carlonicora.com",
   "time": "2020-06-13",
   "license": "MIT",
@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=8.1",
-    "carlonicora/minimalism": "~13.0",
+    "carlonicora/minimalism": "~13.0.1",
     "carlonicora/minimalism-interface-mailer": "~1.0",
     "sendgrid/sendgrid": "~7.9"
   }
