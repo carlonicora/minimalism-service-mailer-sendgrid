@@ -52,7 +52,7 @@ class SendgridMailer extends AbstractService implements MailerInterface
             throw new RuntimeException('Email failed to be sent from the sender', 500);
         }
 
-        foreach ($email->getRecipients() as $recipient) {
+        foreach ($email->getRecipients() ?? [] as $recipient) {
             switch ($recipient->getType()){
                 case RecipientType::To:
                     $sendGridEmail->addTo(

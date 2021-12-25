@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3b16436fbd8dca0ad0a866675386c2bb",
+    "content-hash": "4706638dc8ccd45a4ad56a9f1d583343",
     "packages": [
         {
             "name": "carlonicora/jsonapi",
@@ -55,16 +55,16 @@
         },
         {
             "name": "carlonicora/minimalism",
-            "version": "13.0.1-alpha23",
+            "version": "13.0.2-alpha1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlonicora/minimalism.git",
-                "reference": "389384dbbe505defe767a5017d69e12957ec534b"
+                "reference": "b21010266408c33daeb05c1665bda5835e548e1b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlonicora/minimalism/zipball/389384dbbe505defe767a5017d69e12957ec534b",
-                "reference": "389384dbbe505defe767a5017d69e12957ec534b",
+                "url": "https://api.github.com/repos/carlonicora/minimalism/zipball/b21010266408c33daeb05c1665bda5835e548e1b",
+                "reference": "b21010266408c33daeb05c1665bda5835e548e1b",
                 "shasum": ""
             },
             "require": {
@@ -103,22 +103,22 @@
             "homepage": "https://carlonicora.com",
             "support": {
                 "issues": "https://github.com/carlonicora/minimalism/issues",
-                "source": "https://github.com/carlonicora/minimalism/tree/13.0.1-alpha23"
+                "source": "https://github.com/carlonicora/minimalism/tree/13.0.2-alpha1"
             },
             "time": "2020-12-28T00:00:00+00:00"
         },
         {
             "name": "carlonicora/minimalism-interface-mailer",
-            "version": "1.0.0-alpha5",
+            "version": "1.0.0-alpha6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlonicora/minimalism-interface-mailer.git",
-                "reference": "ce92f59d89673f15f250a59f5c4e61548d4cb859"
+                "reference": "6bf491dbf96d864a96cd92126deb9084afa9587e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlonicora/minimalism-interface-mailer/zipball/ce92f59d89673f15f250a59f5c4e61548d4cb859",
-                "reference": "ce92f59d89673f15f250a59f5c4e61548d4cb859",
+                "url": "https://api.github.com/repos/carlonicora/minimalism-interface-mailer/zipball/6bf491dbf96d864a96cd92126deb9084afa9587e",
+                "reference": "6bf491dbf96d864a96cd92126deb9084afa9587e",
                 "shasum": ""
             },
             "require": {
@@ -147,7 +147,7 @@
             "homepage": "https://carlonicora.com",
             "support": {
                 "issues": "https://github.com/carlonicora/minimalism-interface-mailer/issues",
-                "source": "https://github.com/carlonicora/minimalism-interface-mailer/tree/1.0.0-alpha5"
+                "source": "https://github.com/carlonicora/minimalism-interface-mailer/tree/1.0.0-alpha6"
             },
             "time": "2020-06-13T00:00:00+00:00"
         },
@@ -277,16 +277,16 @@
         },
         {
             "name": "phpoption/phpoption",
-            "version": "1.8.0",
+            "version": "1.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/schmittjoh/php-option.git",
-                "reference": "5455cb38aed4523f99977c4a12ef19da4bfe2a28"
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/5455cb38aed4523f99977c4a12ef19da4bfe2a28",
-                "reference": "5455cb38aed4523f99977c4a12ef19da4bfe2a28",
+                "url": "https://api.github.com/repos/schmittjoh/php-option/zipball/eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
+                "reference": "eab7a0df01fe2344d172bff4cd6dbd3f8b84ad15",
                 "shasum": ""
             },
             "require": {
@@ -294,7 +294,7 @@
             },
             "require-dev": {
                 "bamarni/composer-bin-plugin": "^1.4.1",
-                "phpunit/phpunit": "^6.5.14 || ^7.0.20 || ^8.5.19 || ^9.5.8"
+                "phpunit/phpunit": "^6.5.14 || ^7.5.20 || ^8.5.19 || ^9.5.8"
             },
             "type": "library",
             "extra": {
@@ -314,11 +314,13 @@
             "authors": [
                 {
                     "name": "Johannes M. Schmitt",
-                    "email": "schmittjoh@gmail.com"
+                    "email": "schmittjoh@gmail.com",
+                    "homepage": "https://github.com/schmittjoh"
                 },
                 {
                     "name": "Graham Campbell",
-                    "email": "hello@gjcampbell.co.uk"
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
                 }
             ],
             "description": "Option Type for PHP",
@@ -330,7 +332,7 @@
             ],
             "support": {
                 "issues": "https://github.com/schmittjoh/php-option/issues",
-                "source": "https://github.com/schmittjoh/php-option/tree/1.8.0"
+                "source": "https://github.com/schmittjoh/php-option/tree/1.8.1"
             },
             "funding": [
                 {
@@ -342,7 +344,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-08-28T21:27:29+00:00"
+            "time": "2021-12-04T23:24:31+00:00"
         },
         {
             "name": "sendgrid/php-http-client",
@@ -410,16 +412,16 @@
         },
         {
             "name": "sendgrid/sendgrid",
-            "version": "7.11.0",
+            "version": "7.11.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/sendgrid/sendgrid-php.git",
-                "reference": "3dcfc4db6583d5fa581248bb486418963804620d"
+                "reference": "071eac6de115e8c0ead18a7ebdad7c19043f07e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/sendgrid/sendgrid-php/zipball/3dcfc4db6583d5fa581248bb486418963804620d",
-                "reference": "3dcfc4db6583d5fa581248bb486418963804620d",
+                "url": "https://api.github.com/repos/sendgrid/sendgrid-php/zipball/071eac6de115e8c0ead18a7ebdad7c19043f07e4",
+                "reference": "071eac6de115e8c0ead18a7ebdad7c19043f07e4",
                 "shasum": ""
             },
             "require": {
@@ -469,9 +471,9 @@
             ],
             "support": {
                 "issues": "https://github.com/sendgrid/sendgrid-php/issues",
-                "source": "https://github.com/sendgrid/sendgrid-php/tree/7.11.0"
+                "source": "https://github.com/sendgrid/sendgrid-php/tree/7.11.1"
             },
-            "time": "2021-11-17T19:32:14+00:00"
+            "time": "2021-12-15T21:06:20+00:00"
         },
         {
             "name": "starkbank/ecdsa",
@@ -760,16 +762,16 @@
         },
         {
             "name": "vlucas/phpdotenv",
-            "version": "v5.4.0",
+            "version": "v5.4.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/vlucas/phpdotenv.git",
-                "reference": "d4394d044ed69a8f244f3445bcedf8a0d7fe2403"
+                "reference": "264dce589e7ce37a7ba99cb901eed8249fbec92f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/d4394d044ed69a8f244f3445bcedf8a0d7fe2403",
-                "reference": "d4394d044ed69a8f244f3445bcedf8a0d7fe2403",
+                "url": "https://api.github.com/repos/vlucas/phpdotenv/zipball/264dce589e7ce37a7ba99cb901eed8249fbec92f",
+                "reference": "264dce589e7ce37a7ba99cb901eed8249fbec92f",
                 "shasum": ""
             },
             "require": {
@@ -807,11 +809,13 @@
             "authors": [
                 {
                     "name": "Graham Campbell",
-                    "email": "hello@gjcampbell.co.uk"
+                    "email": "hello@gjcampbell.co.uk",
+                    "homepage": "https://github.com/GrahamCampbell"
                 },
                 {
                     "name": "Vance Lucas",
-                    "email": "vance@vancelucas.com"
+                    "email": "vance@vancelucas.com",
+                    "homepage": "https://github.com/vlucas"
                 }
             ],
             "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
@@ -822,7 +826,7 @@
             ],
             "support": {
                 "issues": "https://github.com/vlucas/phpdotenv/issues",
-                "source": "https://github.com/vlucas/phpdotenv/tree/v5.4.0"
+                "source": "https://github.com/vlucas/phpdotenv/tree/v5.4.1"
             },
             "funding": [
                 {
@@ -834,7 +838,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-11-10T01:08:39+00:00"
+            "time": "2021-12-12T23:22:04+00:00"
         }
     ],
     "packages-dev": [],
