@@ -22,7 +22,7 @@
   },
   "require": {
     "php": ">=8.1",
-    "carlonicora/minimalism": "~13.0",
+    "carlonicora/minimalism": "~13.0.1",
     "carlonicora/minimalism-interface-mailer": "~1.0",
     "sendgrid/sendgrid": "~7.9"
   }
