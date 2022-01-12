@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "4706638dc8ccd45a4ad56a9f1d583343",
+    "content-hash": "8d2d293577cb6da7b449bc6afb3a7ebc",
     "packages": [
         {
             "name": "carlonicora/jsonapi",
-            "version": "3.0.4",
+            "version": "3.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlonicora/jsonapi.git",
-                "reference": "3f2545f036f3034441e1f38a2534600fae1d7df2"
+                "reference": "c61b871c06d935bf556f54d21dbff8cb6f998697"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlonicora/jsonapi/zipball/3f2545f036f3034441e1f38a2534600fae1d7df2",
-                "reference": "3f2545f036f3034441e1f38a2534600fae1d7df2",
+                "url": "https://api.github.com/repos/carlonicora/jsonapi/zipball/c61b871c06d935bf556f54d21dbff8cb6f998697",
+                "reference": "c61b871c06d935bf556f54d21dbff8cb6f998697",
                 "shasum": ""
             },
             "require": {
@@ -41,7 +41,7 @@
                 {
                     "name": "Carlo Nicora",
                     "email": "carlo@carlonicora.com",
-                    "homepage": "http://carlonicora.com",
+                    "homepage": "https://carlonicora.com",
                     "role": "Developer"
                 }
             ],
@@ -49,22 +49,22 @@
             "homepage": "https://carlonicora.com",
             "support": {
                 "issues": "https://github.com/carlonicora/jsonapi/issues",
-                "source": "https://github.com/carlonicora/jsonapi/tree/3.0.4"
+                "source": "https://github.com/carlonicora/jsonapi/tree/3.0.5"
             },
             "time": "2020-05-10T00:00:00+00:00"
         },
         {
             "name": "carlonicora/minimalism",
-            "version": "13.0.2-alpha1",
+            "version": "13.0.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlonicora/minimalism.git",
-                "reference": "b21010266408c33daeb05c1665bda5835e548e1b"
+                "reference": "e354a3ba8c39347f0c3d21b5b616490be22f6da8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlonicora/minimalism/zipball/b21010266408c33daeb05c1665bda5835e548e1b",
-                "reference": "b21010266408c33daeb05c1665bda5835e548e1b",
+                "url": "https://api.github.com/repos/carlonicora/minimalism/zipball/e354a3ba8c39347f0c3d21b5b616490be22f6da8",
+                "reference": "e354a3ba8c39347f0c3d21b5b616490be22f6da8",
                 "shasum": ""
             },
             "require": {
@@ -76,6 +76,7 @@
             },
             "require-dev": {
                 "ext-xdebug": "*",
+                "phpstan/phpstan": "~1.3",
                 "phpunit/phpunit": "^9"
             },
             "bin": [
@@ -103,22 +104,22 @@
             "homepage": "https://carlonicora.com",
             "support": {
                 "issues": "https://github.com/carlonicora/minimalism/issues",
-                "source": "https://github.com/carlonicora/minimalism/tree/13.0.2-alpha1"
+                "source": "https://github.com/carlonicora/minimalism/tree/13.0.6"
             },
             "time": "2020-12-28T00:00:00+00:00"
         },
         {
             "name": "carlonicora/minimalism-interface-mailer",
-            "version": "1.0.0-alpha6",
+            "version": "1.0.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/carlonicora/minimalism-interface-mailer.git",
-                "reference": "6bf491dbf96d864a96cd92126deb9084afa9587e"
+                "reference": "e5d42aaed5f84271a1954ad89c2dfdc7f1f7e35e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/carlonicora/minimalism-interface-mailer/zipball/6bf491dbf96d864a96cd92126deb9084afa9587e",
-                "reference": "6bf491dbf96d864a96cd92126deb9084afa9587e",
+                "url": "https://api.github.com/repos/carlonicora/minimalism-interface-mailer/zipball/e5d42aaed5f84271a1954ad89c2dfdc7f1f7e35e",
+                "reference": "e5d42aaed5f84271a1954ad89c2dfdc7f1f7e35e",
                 "shasum": ""
             },
             "require": {
@@ -147,7 +148,7 @@
             "homepage": "https://carlonicora.com",
             "support": {
                 "issues": "https://github.com/carlonicora/minimalism-interface-mailer/issues",
-                "source": "https://github.com/carlonicora/minimalism-interface-mailer/tree/1.0.0-alpha6"
+                "source": "https://github.com/carlonicora/minimalism-interface-mailer/tree/1.0.0"
             },
             "time": "2020-06-13T00:00:00+00:00"
         },
@@ -215,27 +216,27 @@
         },
         {
             "name": "ocramius/package-versions",
-            "version": "2.4.0",
+            "version": "2.5.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/Ocramius/PackageVersions.git",
-                "reference": "8e96fb9f4671eff86e8e487ff45c49bdc2d2d677"
+                "reference": "deded4228eed848fc5eae2fa0149ceb43afd012a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Ocramius/PackageVersions/zipball/8e96fb9f4671eff86e8e487ff45c49bdc2d2d677",
-                "reference": "8e96fb9f4671eff86e8e487ff45c49bdc2d2d677",
+                "url": "https://api.github.com/repos/Ocramius/PackageVersions/zipball/deded4228eed848fc5eae2fa0149ceb43afd012a",
+                "reference": "deded4228eed848fc5eae2fa0149ceb43afd012a",
                 "shasum": ""
             },
             "require": {
-                "composer-runtime-api": "^2.1.0",
+                "composer-runtime-api": "^2.2.0",
                 "php": "~8.0.0 || ~8.1.0"
             },
             "replace": {
                 "composer/package-versions-deprecated": "*"
             },
             "require-dev": {
-                "composer/composer": "^2.1.8",
+                "composer/composer": "^2.2.0",
                 "doctrine/coding-standard": "^9.0.0",
                 "ext-zip": "^1.15.0",
                 "phpunit/phpunit": "^9.5.9",
@@ -261,7 +262,7 @@
             "description": "Provides efficient querying for installed package versions (no runtime IO)",
             "support": {
                 "issues": "https://github.com/Ocramius/PackageVersions/issues",
-                "source": "https://github.com/Ocramius/PackageVersions/tree/2.4.0"
+                "source": "https://github.com/Ocramius/PackageVersions/tree/2.5.0"
             },
             "funding": [
                 {
@@ -273,7 +274,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-09-19T02:32:19+00:00"
+            "time": "2021-12-22T12:00:55+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -520,20 +521,23 @@
         },
         {
             "name": "symfony/polyfill-ctype",
-            "version": "v1.23.0",
+            "version": "v1.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-ctype.git",
-                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce"
+                "reference": "30885182c981ab175d4d034db0f6f469898070ab"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/46cd95797e9df938fdd2b03693b5fca5e64b01ce",
-                "reference": "46cd95797e9df938fdd2b03693b5fca5e64b01ce",
+                "url": "https://api.github.com/repos/symfony/polyfill-ctype/zipball/30885182c981ab175d4d034db0f6f469898070ab",
+                "reference": "30885182c981ab175d4d034db0f6f469898070ab",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.1"
+            },
+            "provide": {
+                "ext-ctype": "*"
             },
             "suggest": {
                 "ext-ctype": "For best performance"
@@ -579,7 +583,7 @@
                 "portable"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.23.0"
+                "source": "https://github.com/symfony/polyfill-ctype/tree/v1.24.0"
             },
             "funding": [
                 {
@@ -595,24 +599,27 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-02-19T12:13:01+00:00"
+            "time": "2021-10-20T20:35:02+00:00"
         },
         {
             "name": "symfony/polyfill-mbstring",
-            "version": "v1.23.1",
+            "version": "v1.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-mbstring.git",
-                "reference": "9174a3d80210dca8daa7f31fec659150bbeabfc6"
+                "reference": "0abb51d2f102e00a4eefcf46ba7fec406d245825"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/9174a3d80210dca8daa7f31fec659150bbeabfc6",
-                "reference": "9174a3d80210dca8daa7f31fec659150bbeabfc6",
+                "url": "https://api.github.com/repos/symfony/polyfill-mbstring/zipball/0abb51d2f102e00a4eefcf46ba7fec406d245825",
+                "reference": "0abb51d2f102e00a4eefcf46ba7fec406d245825",
                 "shasum": ""
             },
             "require": {
                 "php": ">=7.1"
+            },
+            "provide": {
+                "ext-mbstring": "*"
             },
             "suggest": {
                 "ext-mbstring": "For best performance"
@@ -659,7 +666,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.23.1"
+                "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.24.0"
             },
             "funding": [
                 {
@@ -675,20 +682,20 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-05-27T12:26:48+00:00"
+            "time": "2021-11-30T18:21:41+00:00"
         },
         {
             "name": "symfony/polyfill-php80",
-            "version": "v1.23.1",
+            "version": "v1.24.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/polyfill-php80.git",
-                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be"
+                "reference": "57b712b08eddb97c762a8caa32c84e037892d2e9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/1100343ed1a92e3a38f9ae122fc0eb21602547be",
-                "reference": "1100343ed1a92e3a38f9ae122fc0eb21602547be",
+                "url": "https://api.github.com/repos/symfony/polyfill-php80/zipball/57b712b08eddb97c762a8caa32c84e037892d2e9",
+                "reference": "57b712b08eddb97c762a8caa32c84e037892d2e9",
                 "shasum": ""
             },
             "require": {
@@ -742,7 +749,7 @@
                 "shim"
             ],
             "support": {
-                "source": "https://github.com/symfony/polyfill-php80/tree/v1.23.1"
+                "source": "https://github.com/symfony/polyfill-php80/tree/v1.24.0"
             },
             "funding": [
                 {
@@ -758,7 +765,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2021-07-28T13:41:28+00:00"
+            "time": "2021-09-13T13:58:33+00:00"
         },
         {
             "name": "vlucas/phpdotenv",
@@ -843,7 +850,7 @@
     ],
     "packages-dev": [],
     "aliases": [],
-    "minimum-stability": "alpha",
+    "minimum-stability": "stable",
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
@@ -851,5 +858,5 @@
         "php": ">=8.1"
     },
     "platform-dev": [],
-    "plugin-api-version": "2.1.0"
+    "plugin-api-version": "2.2.0"
 }

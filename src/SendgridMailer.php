@@ -19,7 +19,6 @@ class SendgridMailer extends AbstractService implements MailerInterface
         private string $MINIMALISM_SERVICE_MAILER_SENDGRID_API_KEY,
     )
     {
-        parent::__construct();
     }
 
     /**
